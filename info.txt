@@ -1,0 +1,291 @@
+1. Beispeil Seite
+https://sergeybalakirev.github.io/project_4/
+
+2. Beispeil 
+
+https://sergeybalakirev.github.io/project_9/
+
+https://www.figma.com/file/AFeliKrovTJp3LcA82hD6p/WordPress2-(Copy)?type=design&node-id=0-2&mode=design&t=0WGISU41VhoCxyhT-0
+
+
+We are specialised in
+
+3. CSS Anchor Positioning
+https://caniuse.com/
+
+4.Flex
+https://web.archive.org/web/20210718095533/https://html5.by/blog/flexbox/
+
+ justify-content: space-around;
+
+
+display: flex;
+align-items: center;
+justify-content: center;
+
+flex-wrap: wrap;
+Шпаргалка по Flexbox (CSS3 Flexible Box)
+https://habr.com/ru/articles/313938/
+
+
+.my-flex-container {
+    display: flex;
+    height: 600px;
+    flex-wrap: wrap;
+
+    /* Или что угодно */
+}
+
+.my-flex-block {
+    width: 260px;
+    height: 100px;
+    margin: auto;
+    background: green;
+
+
+    /* Магия! Блок отцентрирован по вертикали и горизонтали! */
+}
+
+
+
+Шпаргалка по Flexbox (CSS3 Flexible Box)
+https://habr.com/ru/articles/313938/
+https://www.w3.org/TR/css-flexbox-1/
+https://web.archive.org/web/20210718095533/https://html5.by/blog/flexbox/
+https://web.archive.org/web/20201129221852/https://html5.by/blogdemo/flexbox/flex-direction-align-justify.html
+
+flex: none | [ <'flex-grow'> <'flex-shrink'>? || <'flex-basis'> ]
+flex – короткая запись для свойств flex-grow, flex-shrink и flex-basis
+
+
+    <div class="my-flex-container">
+
+        <div class="my-flex-block"></div>
+        <div class="my-flex-block"></div>
+        <div class="my-flex-block"></div>
+        <div class="my-flex-block"></div>
+        <div class="my-flex-block"></div>
+        <div class="my-flex-block"></div>
+
+    </div>
+
+
+.my-flex-container {
+    height: 600px;
+    display: flex;
+    flex-wrap: wrap;
+
+    justify-content: space-between;
+    align-items: space-evenly;
+    align-content: space-evenly;
+    background-color: rgba(67, 62, 62, 0.18);
+
+
+    justify-content: space-evenly;
+    align-items: center;
+
+
+  
+}
+
+.my-flex-block {
+
+    width: 250px;
+    height: 100px;
+    margin: auto;
+    background: green;
+
+    flex: 0 0 1;
+    margin: auto;
+
+}
+
+------------------ //------------------ //------------------ //------------------ //
+
+ flex-flow
+
+
+.my-flex-block{
+  flex-direcrion:column;
+  flex-wrap: wrap;
+}
+
+/* это то же самое, что ... */
+
+.my-flex-block{
+  flex-flow: column wrap;
+}
+
+
+Полная таблица alt-кодов
+https://dvigok.com.ua/ru/polnaya-tablitsa-alt-kodov/
+
+https://dvigok.com.ua/ru/portfolio-of-sites/
+
+
+  ------**------ 
+
+
+  .finish .finish_wrapper {
+    margin-top: 41px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.finish .finish_wrapper .finish_item {
+    width: 204px;
+}   
+
+.finish .finish_wrapper .finish_round {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;     /*  center  */
+    width: 118px;
+    height: 118px;
+    background: #B4E2FF;
+    border-radius: 100%;
+    /*  ◙ → ☻  */
+}
+
+.finish .finish_wrapper .finish_descr {
+    margin-top: 25px;
+    text-align: center;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 17px;
+    color: #EFEFEF;
+}
+
+
+  ------**------ 
+
+https://cdnjs.com/libraries/normalize
+https://htmlacademy.ru/blog/css/about-normalize-css
+https://necolas.github.io/normalize.css/
+
+Agiles Arbeiten erfordert eine umfassende Kommunikation, damit alle über die relevanten Informationen, Ideen und Abläufe informiert sind. 
+https://www.bmbf.de/bmbf/shareddocs/kurzmeldungen/de/2021/12/ki-am-arbeitsplatz.html#searchFacets
+
+„Schlüsselkompetenzen“
+
+https://www.bmbf.de/bmbf/de/bildung/weiterbildung/weiterbildung_node.html
+
+
+Linux Essentials
+
+https://www.experteach.eu/de/linux-zertifizierung.html#:~:text=F%C3%BCr%20den%20Start%20in%20die,Komponenten%20des%20Linux%2DBetriebssystems%20verstehen.
+https://www.experteach.eu/de/vmware-training.html
+https://www.experteach.eu/de/microsoft-training.html
+
+Administrator Windows Server (m/w/d)
+Bad Ems
+ActiveDirectoryDokumentationFirewallMS ExchangeMS Office / Microsoft 365Systemadministration +3
+
+https://www.get-in-it.de/jobsuche/p250089?utm_source=arbeitsagentur&utm_medium=cpc&utm_campaign=launch-basic
+
+Auto rename tag  
+https://htmlacademy.ru/blog/soft/vscode-addons
+
+
+Топ-20 лучших плагинов для Figma в 2023
+https://htmlacademy.ru/blog/soft/figma-plugins
+
+
+Трясём пароль с помощью CSS
+4 способа центрировать текст в CSS
+https://htmlacademy.ru/blog/css/about-normalize-css
+
+Анимация на сайте. Свойство animation
+https://htmlacademy.ru/blog/css/property-animation
+
+
+Знакомство с HTML
+https://htmlacademy.ru/blog/html/introduction-to-html
+https://htmlacademy.ru/blog/css/introduction-to-css
+https://htmlacademy.ru/blog/js/introduction-to-javascript
+
+
+
+https://fonts.google.com/knowledge
+
+Carousel
+A slideshow component for cycling through elements—images or slides of text—like a carousel.
+https://getbootstrap.com/docs/4.6/components/carousel/
+
+
+
+Ajax Uploads
+https://plugins.krajee.com/file-input#ajax-uploads
+
+Welcome to Taskade's Official YouTube Channel — the hub of AI-powered productivity. Dive in: https://www.taskade.com
+https://www.taskade.com/
+https://www.youtube.com/taskade
+
+Примеры
+Быстро начните проект с любым из наших примеров, начиная от использования частей фреймворка и заканчивая пользовательскими компонентами и макетами.
+https://getbootstrap.ru/docs/5.3/examples/
+
+
+https://nextjs.org/
+https://nextjs.org/showcase
+
+Fine-tuning GPT with OpenAI, Next.js and Vercel AI SDK
+https://vercel.com/docs
+https://vercel.com/guides/fine-tuning-openai-nextjs
+Browser Support
+https://plugins.krajee.com/file-input
+https://demo.neontheme.com/frontend/main/
+
+
+https://henzgen-schommer.de/referenzen/
+
+How to Build a Fullstack App with Next.js, Prisma, and Vercel Postgres
+https://vercel.com/guides/nextjs-prisma-postgres
+
+Select
+Customize the native <select> with custom CSS that changes the element’s initial appearance
+https://react-bootstrap.github.io/docs/forms/select
+
+
+
+https://www.ideenwettbewerb-rlp.de/
+
+WFG Wirtschaftsförderungsgesellschaft am Mittelrhein mbH
+Schnitt- und Schaltstelle zwischen Wirtschaft, Verwaltung, Wissenschaft und Politik 
+
+www.wfg-myk.de
+
+Wirtschafts- und Wissenschaftsallianz Region Koblenz e.V.
+www.wwa-koblenz.de/
+
+
+Technologie Zentrum Koblenz GmbH
+www.tzk.de
+
+Beratungsnetzwerk Mittelstand
+https://beratungsnetzwerkmittelstand.de/
+
+
+
+
+0:20 / 16:53
+
+Blitz-Training: Bessere Struktur im eigenen Arbeitsalltag mit Aufgaben in Microsoft Outlook
+https://www.youtube.com/watch?v=wrUGwDE8t-0&list=PLSfZXmcqAeBIrzQe-Ki1j-rIzumak6iIj
+ining: Bessere Struktur im eigenen Arbeitsalltag mit Aufgaben in Microsoft Outlook
+https://www.youtube.com/watch?v=wrUGwDE8t-0&list=PLSfZXmcqAeBIrzQe-Ki1j-rIzumak6iIj
+
+https://www.microsoft.com/de-de/kmu
+
+
+https://bni-koblenz.de/rhein-eifel/de/memberlist?chapterName=21247&regionIds=6102,23249$isChapterwebsite
+
+https://bni-koblenz.de/rhein-eifel/de/memberdetails?encryptedMemberId=4ks%2BaL6cm6uuxuQhqmkM9w%3D%3D&cmsv3=true&name=Tilmar+Hennig
+
+https://chat.openai.com/share/aa766411-2969-446a-b11f-745b49a7df0b
+
+KUNDEN, PARTNER, FREUNDE.
+https://henzgen-schommer.de/referenzen/
+https://blum-waesche.de/
